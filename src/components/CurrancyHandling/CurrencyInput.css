@@ -1,0 +1,30 @@
+.currency-data{
+    width: 20vw;
+    height: 7vh;
+    margin-top: 10vh;
+    
+   
+
+    
+}
+.currency-data:hover{
+    border: 2px solid rgb(85, 1, 1);
+    border-radius: 0.5vh;
+
+
+}
+.input-box{
+   
+    border: none;
+    border: 1px solid black;
+    height: 6vh;
+    margin-top: 5vh;
+    width: 20vw;
+    border-radius: 0.5vh;
+    
+   
+}
+.input-box:hover{
+    border: 2px solid rgb(85, 1, 1);
+    border-radius: 0.5vh;
+}
